@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋 I'm VarunKarthick.S
 
-<!--
-**VarunKarthick1904/VarunKarthick1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring MERN Stack Developer  
+💻 Currently learning Full Stack Web Development  
+📚 Skills: HTML, CSS, JavaScript (In Progress)  
+🎯 Goal: Become a professional Full Stack Developer  
+🔥 Building projects from scratch and improving daily  
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Learning MERN Stack  
+- Building personal projects  
+- Improving problem solving skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- GitHub: https://github.com/VarunKarthick1904
